@@ -1,0 +1,10 @@
+CD to the folder containing the app
+| npm create  vite@4.1.0  //press enter
+| fill all necessary document
+
+| CD <app_name>    // press enter
+| npm install
+after installation complete
+| npm run dev
+
+click on the localhost to open browser
